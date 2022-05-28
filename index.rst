@@ -8,7 +8,7 @@ The process of installing the Canon printer via the ij.start.canon has been expl
 
 |
 
-.. image:: stars.jpg
+.. image:: get-started-button.png
     :width: 300px
     :align: center
     :height: 100px
